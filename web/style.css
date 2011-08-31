@@ -1,0 +1,150 @@
+
+body {
+	font-family: sans-serif;
+	font-size: 10pt;
+	line-height: 1.5em;
+}
+
+div.search {
+	width: 600px;
+	margin: 20px 0 20px 0;
+}
+
+fieldset.search {
+	border: 0;
+	padding: 0 0 0 0;
+}
+
+#search {
+	width: 100%;
+	margin: 20px 0 20px 0;
+	margin-top: 100px;
+	text-align: center;
+}
+
+#search h1 {
+	font-family: "Trebuchet MS";
+	font-size: 40pt;
+	margin-bottom: 10px;
+	line-height: 1em;
+}
+
+#search-title {
+	font-size: 0.8em;
+	margin-bottom: 20px;
+}
+
+#search-copyright {
+	font-size: 0.8em;
+	margin-top: 20px;
+}
+
+#search input.query {
+	width: 300px;
+}
+
+#search input.submit {
+	width: 80px;
+}
+
+/******************************************************************************/
+
+#wrapper {
+	width: 780px;
+}
+
+#search-top {
+	margin-top: 20px;
+}
+
+#search-top h1 {
+	font-family: "Trebuchet MS";
+	font-size: 20pt;
+	font-weight: bold;
+}
+
+#search-top h1 a {
+	color: #000000;
+	text-decoration: none;
+}
+
+#search-top input.query {
+	width: 300px;
+}
+
+#search-top input.submit {
+	width: 80px;
+}
+
+#search-bottom {
+	float: left;
+	width: 100%;
+	margin: 20px 0 20px 0;
+	padding: 20px 0 20px 0;
+	background-color: #A4EA55;
+	border-top: 1px solid #65BD07;
+	border-bottom: 1px solid #65BD07;
+	text-align: center;
+}
+
+#search-bottom input.query {
+	width: 300px;
+}
+
+#search-bottom input.submit {
+	width: 80px;
+}
+
+
+#toolbar-top {
+	width: 100%;
+	background-color: #A4EA55;
+	border-top: 1px solid #65BD07;
+	margin-top: 10px;
+	padding: 2px 4px 2px 4px;
+}
+
+#toolbar-top a {
+
+}
+
+#result {
+	float: left;
+	overflow: hidden;
+}
+
+#result div.item {
+	width: 620px;
+	margin: 10px 0 10px 0;
+}
+
+#result div.link {
+	font-size: 1.1em;
+}
+
+#result div.description {
+	font-size: 1em;
+}
+
+#result div.uri {
+	font-size: 0.9em;
+	color: green;
+	overflow: hidden;
+}
+
+#result div.page-splitter {
+	width: 620px;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+#adsense {
+	float: right;
+	margin: 20px 0 0 0;
+}
+
+
+td {
+	font-size: 10pt; /* for f****** IE */
+}
